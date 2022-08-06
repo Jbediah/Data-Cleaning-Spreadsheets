@@ -1,0 +1,15 @@
+-Removed Duplicate Data from the sheet using Remove Duplicates function.
+26 duplicate values found and removed; 1000 unique values remain.
+
+-Replaced fields containing "M" with "Married" and "S" with "Single" so that their
+meanings can be easily understood.
+
+-Replaced fields containing "M" with "Male" and "F" with "Female" so that their
+meanings can be easily understood.
+
+-Added another column as age range with ranges as-
+Age<31	- Adult
+Age>=31	- Middle Age
+Age>54	- Old
+
+-Changed the field values of Commute Distance from "10+ miles" to "More than 10 miles"
