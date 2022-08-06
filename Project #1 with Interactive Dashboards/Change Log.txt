@@ -13,3 +13,10 @@ Age>=31	- Middle Age
 Age>54	- Old
 
 -Changed the field values of Commute Distance from "10+ miles" to "More than 10 miles"
+
+-added a sheet of pivot tables and added the following pivot tables.
+1. Average Income of Males and Females and if they bought a bike.
+2. Count of Bikes Purchased with Commute Distance.
+3. Count of Bikes purchased among different age groups.
+
+-added charts from pivot tables.
